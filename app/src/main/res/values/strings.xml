@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="splash_text">Hey there!</string>
+    <string name="button_1">I\'m good!</string>
+    <string name="button_2">Life Sucks!</string>
+    <string name="the_quote">\"Happiness can be found even in the darkest of times, if one only remembers to turn on the lights.\"\n\n- Albus Dumbledore</string>
+    <string name="nothing">Sorry.\n\nNothing in here for you.</string>
+    <string name="the_question">How you doin\'?</string>
+</resources>
